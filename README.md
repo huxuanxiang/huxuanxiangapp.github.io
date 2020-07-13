@@ -1,2 +1,0 @@
-# huxuanxiangapp.github.io
-app
